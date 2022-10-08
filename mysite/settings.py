@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve(strict=True).parent.parent
 SECRET_KEY = '=2d*0-%l@xo1+6a^9@&e3#mz9j0(9r&^xlt$d@4y59(y$xx37%'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['127.0.0.1', 'phishing-websites.herokuapp.com']
 
